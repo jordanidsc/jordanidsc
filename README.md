@@ -5,7 +5,7 @@
 Sou Jordani, empresário e Desenvolvedor Full Stack nas horas vagas, entusiasta de tecnologia e inovação. 
 Possuo formação técnica em Informática e graduação tecnológica em Análise e Desenvolvimento de Sistemas, tenho experiência em algumas linguagens de programação a exemplo de Java, C#, PHP, JavaScript e Kotlin.
 
-Minha trajetória profissional inclui posições como Monitor de Informática, Programador e Auxiliar de Geoprocessamento, já auxiliei alunos com dúvidas em lógica de programação, JAVA e banco de dados, ao longo de minha trajetória desenvolvi habilidades em manutenção de sistemas web, desenvolvimento de aplicações mobile Android (Java e Kotlin), construção de APIs RESTful e administração de servidores, conhecimento em servidores de mapa. 
+Minha trajetória profissional inclui posições como Monitor de Informática, Programador e Auxiliar de Geoprocessamento, já auxiliei alunos com dúvidas em lógica de programação, JAVA e banco de dados, ao longo de minha trajetória desenvolvi habilidades em manutenção de sistemas web, desenvolvimento de aplicações mobile Android (Java e Kotlin), construção de APIs RESTful e administração de servidores, conhecimento em servidores de mapa, banco de dados SQL e NoSQL. 
 
 Sigo em constante aprendizado, sempre buscando aprender novas tecnologias e solucionar problemas.
 
