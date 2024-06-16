@@ -1,11 +1,15 @@
+markdown
+Copiar
 ## 👨‍💻 Sobre Mim
 
 👋 Olá
 
-Me chamo Jordani, empresário e desenvolvedor nas horas vagas, entusiasta de tecnologia e inovação. 
+Sou Jordani, empresário e Desenvolvedor Full Stack nas horas vagas, entusiasta de tecnologia e inovação. 
 Possuo formação técnica em Informática e graduação tecnológica em Análise e Desenvolvimento de Sistemas, tenho experiência em algumas linguagens de programação a exemplo de Java, C#, PHP, JavaScript e Kotlin.
 
-Minha trajetória profissional inclui posições como Monitor de Informática, Programador e Auxiliar de Geoprocessamento, já auxiliei alunos com dúvidas em lógica de programação, JAVA e banco de dados, ao longo de minha trajetória desenvolvi habilidades em manutenção de sistemas web, construção de APIs RESTful e administração de servidores de mapas. Sigo em constante aprendizados e sempre buscando novas tecnologias e soluções criativas para desafios dos mais básicos aos mais avançados.
+Minha trajetória profissional inclui posições como Monitor de Informática, Programador e Auxiliar de Geoprocessamento, já auxiliei alunos com dúvidas em lógica de programação, JAVA e banco de dados, ao longo de minha trajetória desenvolvi habilidades em manutenção de sistemas web, desenvolvimento de aplicações mobile Android (Java e Kotlin), construção de APIs RESTful e administração de servidores, conhecimento em servidores de mapa. 
+
+Sigo em constante aprendizado, sempre buscando aprender novas tecnologias e solucionar problemas.
 
 <!-- Programação, Rede de Computadores, Banco de Dados, Segurança da Informação, Arquitetura de Computadores, Processo de Desenvolvimento de Software, Engenharia e Arquitetura de Software-->
 <!--Se quiser conhecer mais sobre meus projetos, visite meu [GitHub](https://github.com/jordanidsc).-->
@@ -29,6 +33,11 @@ Minha trajetória profissional inclui posições como Monitor de Informática, P
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+#### Extensão
+![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Ferramentas de Criação de Relatórios
 ![iReport](https://img.shields.io/badge/iReport-FF6600?style=for-the-badge&logo=jasperreports&logoColor=white)
@@ -47,7 +56,27 @@ Minha trajetória profissional inclui posições como Monitor de Informática, P
 ![Struts](https://img.shields.io/badge/Struts-007396?style=for-the-badge&logo=java&logoColor=white)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapi-initiative&logoColor=white)
 
+### Ferramentas e Bibliotecas Adicionais
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![MapServer](https://img.shields.io/badge/MapServer-FF6600?style=for-the-badge&logo=mapserver&logoColor=white)
+![GeoServer](https://img.shields.io/badge/GeoServer-336791?style=for-the-badge&logo=geoserver&logoColor=white)
+![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Serviços em Nuvem
+![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+- **AWS ElastiCache**
+- **AWS RDS**
+- **AWS EC2**
+- **AWS Route 53**
+
 ### Outros Conhecimentos
+- **Fundamentos de AI Generativa**
 - **RESTful**
 - **Desenvolvimento de APIs e Webservices**
 
