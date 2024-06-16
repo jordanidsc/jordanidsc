@@ -1,5 +1,3 @@
-markdown
-Copiar
 ## 👨‍💻 Sobre Mim
 
 👋 Olá
